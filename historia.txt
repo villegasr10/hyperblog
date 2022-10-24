@@ -2,4 +2,6 @@ Este es un texto de ejemplo
 
 Sera guardado como documento de txt
 
-freddy tiene 33 años
+Nicolas tiene 21 años
+
+Nicolas vive en medellin, colombia y estudia en la EIA
