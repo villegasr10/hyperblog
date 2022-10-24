@@ -1,3 +1,5 @@
 Este es un texto de ejemplo
 
-Sera guardado como documento de texto
+Sera guardado como documento de txt
+
+freddy tiene 33 años
